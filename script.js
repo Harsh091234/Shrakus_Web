@@ -38,7 +38,7 @@ function OnMouseLeave2(){
  }
 function OnMouseOver3(){
    let x=document.getElementById("box3");
-   x.innerHTML = "Nalla";
+   x.innerHTML = "None";
    x.style.backgroundColor ="rgba(128, 128, 128, .7)";
    x.style.color = "white";
    x.style.border = "solid white 2px";
@@ -56,7 +56,7 @@ function OnMouseLeave3(){
  }
 function OnMouseOver4(){
    let x=document.getElementById("box4");
-   x.innerHTML = "Html, Css, JavaScript";
+   x.innerHTML = "Html, Css, JavaScript, TailWind, BootStrap";
    x.style.backgroundColor ="rgba(128, 128, 128, .7)";
    x.style.color = "white";
    x.style.border = "solid white 2px";
@@ -74,7 +74,7 @@ function OnMouseLeave4(){
  }
 function OnMouseOver5(){
    let x=document.getElementById("box5");
-   x.innerHTML = "Btech Cse";
+   x.innerHTML = "BCA";
    x.style.backgroundColor ="rgba(128, 128, 128, .7)";
    x.style.color = "white";
    x.style.border = "solid white 2px";
